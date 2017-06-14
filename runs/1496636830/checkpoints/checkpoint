@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\gitroot\\tensorflow-lstm-qa\\runs\\1496636830\\checkpoints\\model-25000"
+all_model_checkpoint_paths: "E:\\gitroot\\tensorflow-lstm-qa\\runs\\1496636830\\checkpoints\\model-21000"
+all_model_checkpoint_paths: "E:\\gitroot\\tensorflow-lstm-qa\\runs\\1496636830\\checkpoints\\model-22000"
+all_model_checkpoint_paths: "E:\\gitroot\\tensorflow-lstm-qa\\runs\\1496636830\\checkpoints\\model-23000"
+all_model_checkpoint_paths: "E:\\gitroot\\tensorflow-lstm-qa\\runs\\1496636830\\checkpoints\\model-24000"
+all_model_checkpoint_paths: "E:\\gitroot\\tensorflow-lstm-qa\\runs\\1496636830\\checkpoints\\model-25000"
